@@ -1,4 +1,4 @@
-# Olá, eu sou Letícia Correia 👋
+# Olá, eu sou Letícia Correia
 
 ### 📊 Analista de Dados | SQL (PostgreSQL) • Python • Dashboards & Automações
 
