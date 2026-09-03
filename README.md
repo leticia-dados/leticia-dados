@@ -36,7 +36,7 @@ Estudo de caso e pipeline analítico para mapear o impacto de falhas operacionai
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-correia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leticia-correia-530869262/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edleticiaocorreia@gmail.com)
 
 ---
